@@ -43,3 +43,10 @@ def predict():
         'message': '✅ Access Granted!' if is_authentic else '❌ Impostor Detected!'
     })
 
+
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'running'})
+
+if __name__ == '__main__':
+    app.run(port=5000, debug=True)
