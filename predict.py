@@ -33,7 +33,7 @@ def predict():
     
     # Claimed user se match karo
     claimed_user = data.get('claimed_username', '')
-    is_authentic = (predicted_user == claimed_user) and (probability > 0.7)
+    is_authentic = (predicted_user == claimed_user) and (probability > 0.5)
     
     return jsonify({
         'predicted_user': predicted_user,
@@ -43,9 +43,3 @@ def predict():
         'message': '✅ Access Granted!' if is_authentic else '❌ Impostor Detected!'
     })
 
-@app.route('/health', methods=['GET'])
-def health():
-    return jsonify({'status': 'running'})
-
-if __name__ == '__main__':
-    app.run(port=5000, debug=True)
