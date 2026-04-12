@@ -1,0 +1,15 @@
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.csproj.AssemblyReference.cache
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.DashboardForm.resources
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.LoginForm.resources
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.Properties.Resources.resources
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.RegisterForm.resources
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.csproj.GenerateResource.cache
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.csproj.CoreCompileInputs.cache
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\bin\Debug\TypingAuthGUI.exe.config
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\bin\Debug\TypingAuthGUI.exe
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\bin\Debug\TypingAuthGUI.pdb
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\bin\Debug\Newtonsoft.Json.dll
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\bin\Debug\Newtonsoft.Json.xml
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAu.D0A2ECD9.Up2Date
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.exe
+E:\C#\TypingAuthenticator\CSharp\TypingAuthGUI\TypingAuthGUI\obj\Debug\TypingAuthGUI.pdb
